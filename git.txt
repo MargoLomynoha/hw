@@ -4,6 +4,10 @@
 15. Soft reset safe
 
 16. Mixed reset default
-
+21. Fetch downloads commits
+22. Rebase rewrites history
+23. Tag marks versions
+24. Log shows commits
+25. Status shows state
 26. Diff shows changes
 30. Mv renames files
