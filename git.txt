@@ -2,8 +2,10 @@
 
 11. Staging area buffer
 15. Soft reset safe
-
 16. Mixed reset default
-
+17. Checkout switches branch
+18. Clone copies repo
+19. Pull gets updates
+20. Push shares changes
 26. Diff shows changes
 30. Mv renames files
